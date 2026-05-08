@@ -1,0 +1,41 @@
+name: Metrics
+on:
+  # Schedule updates every 12 hours
+  schedule: [{cron: "0 */12 * * *"}]
+  # Allows you to run this manually from the Actions tab
+  workflow_dispatch:
+  # Runs every time you push to the main branch
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: General metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # DO NOT CHANGE THIS LINE. 
+          # It pulls the token from your Settings > Secrets vault.
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Personal Configuration
+          user: mrjeronluther
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Manila
+          
+          # Output Configuration
+          # This saves the file as 'github-metrics.svg' on your 'main' branch
+          filename: github-metrics.svg
+          committer_branch: main
+          
+          # Plugins
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
