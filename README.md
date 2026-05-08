@@ -1,292 +1,248 @@
-# 👋 Hey there, I'm Jeron Luther!
+# 👋 Jeron Luther E.S. Castro | Business Systems Developer
 
-Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Google Apps Script Specialist** with expertise in building enterprise-grade web applications, automation systems, and management platforms. I'm passionate about creating solutions that streamline workflows and improve operational efficiency.
+<div align="center">
+
+**Building Custom Software That Fixes Real Business Problems**
+
+I'm a Business Systems Developer based in Manila, Philippines, specializing in creating automation frameworks, data pipelines, and internal tools that transform business operations. I excel at identifying workflow bottlenecks and solving them with precision-engineered software.
+
+[GitHub](https://github.com/mrjeronluther) • [Email](mailto:castrojeronlutheres@gmail.com) • [Portfolio](https://github.com/mrjeronluther/My-E-Portfolio)
+
+</div>
+
+---
 
 ## 🎯 About Me
 
-I'm **mrjeronluther**, a developer with a strong background in:
-- Building **scalable Google Workspace applications** using Google Apps Script
-- Developing **interactive web applications** with modern frontend frameworks
-- Creating **enterprise automation systems** for operations management
-- Implementing **secure financial workflows** and data management systems
-- Designing **intelligent backend logic** for complex business processes
-- Building **interactive games and team-building applications**
-- Developing **video/media processing applications** with cloud storage
+I solve the "slow parts" of businesses by building custom software. My experience spans from **automating 95% of manual document processing** to designing end-to-end **data pipelines that power real-time dashboards for leadership teams**.
 
-I specialize in taking complex business requirements and translating them into elegant, maintainable code that solves real-world problems.
-
-## 💻 Comprehensive Tech Stack
-
-### **Frontend Frameworks & Libraries**
-- **Vue.js 3** (Composition API) - Advanced reactive UIs with modern patterns
-- **HTML5 & CSS3** - Responsive, accessible web interfaces
-- **Bootstrap 5.3** - Professional UI design and layouts
-- **Bootstrap Icons** - Icon library for modern interfaces
-- **JavaScript (ES6+)** - Modern, clean, production-grade code
-- **Canvas Confetti** - Celebratory animations and effects
-
-### **Backend & Serverless**
-- **Google Apps Script (V8 Engine)** - Advanced serverless automation and integration
-- **JavaScript Backend Development** - Server-side logic and API design
-- **PHP** - Traditional backend development and database operations
-- **Google Workspace APIs** - Native Gmail, Drive, Calendar, and Sheets integration
-
-### **Databases & Storage**
-- **Google Sheets** - Flexible spreadsheet databases with custom logic
-- **Google Drive API** - File storage, management, and media hosting
-- **JSON** - Flat-file database systems
-- **MySQL/Traditional Databases** - Relational data management
-- **Base64 Encoding/Decoding** - Binary data conversion for cloud storage
-
-### **Security & Authentication**
-- **XOR + Base64 Encryption** - Custom encryption implementations
-- **Zero-Trust Authentication** - OTP-based verification systems
-- **Google Session Authentication** - Secure Google Workspace integration
-- **Session Management** - Secure user access control
-- **Access Control Lists** - Role-based permissions
-- **Brute-Force Protection** - Advanced login security
-- **Password Reset Cooldowns** - Security best practices
-
-### **Media & Recording Technologies**
-- **MediaRecorder API** - In-browser video capture
-- **navigator.mediaDevices.getUserMedia** - Camera and microphone access
-- **Video Blob Processing** - Client-side media handling
-- **MP4/WebM Support** - Multiple video format support
-- **Base64 Video Conversion** - Video to text data conversion
-
-### **Performance & Optimization**
-- **LockService** - Concurrency management and mutual exclusion
-- **CacheService** - High-speed RAM caching for performance
-- **PropertiesService** - State management and persistence
-- **Two-Tier Data Strategy** - RAM cache + persistent storage architecture
-
-### **AI & Advanced Features**
-- **Google Gemini 3 Flash Preview API** - Artificial intelligence integration
-- **AI Summarization** - Intelligent text processing and conversation summary
-- **Multi-Key Fallback Logic** - API reliability and quota management
-- **Natural Language Processing** - Context-aware AI responses
-
-### **PDF & Document Processing**
-- **HTML-to-PDF Conversion** - Dynamic document generation
-- **PDF Engine** - Templated document creation
-- **Automated Report Generation** - Data-driven document creation
-- **Print-Ready Layouts** - Professional document formatting
-
-### **Advanced Algorithms & Logic**
-- **Seeded Shuffling** - Deterministic randomization with data integrity
-- **Pattern Detection Engine** - Dynamic pattern matching and recognition
-- **Anomaly Scanning** - Two-tier error detection and flagging
-- **Smart Database Rotation** - Automatic backup management
-- **Formula Injection Engine** - Dynamic calculation implementation
-- **Anti-Duplicate Logic** - Sophisticated deduplication algorithms
-
-### **Event & Game Development**
-- **CSS3 Keyframes** - Complex animation sequences
-- **Glassmorphism UI** - Modern design patterns
-- **Mobile-First Design** - Responsive game interfaces
-- **Dynamic Prompt System** - Shuffled question generation
-- **Leaderboard Systems** - Achievement tracking
-- **Real-Time Pattern Recognition** - Live game state management
-
-### **Data Validation & Processing**
-- **Advanced Search Logic** - Strict data validation engines
-- **Data Lookup Tables** - Dynamic value validation
-- **Seeded-Based Validation** - Secure data integrity checks
-- **Autocompletion Systems** - Smart name/value suggestions
-- **Variance Detection** - Statistical anomaly identification
-- **Field Mapping** - Complex data transformation
-
-### **Workflow & Automation**
-- **Automated PDF Generation** - Document creation pipelines
-- **Email Notifications** - SMTP and Gmail API integration
-- **Automated Routing** - Intelligent workflow distribution
-- **Audit Trail Generation** - Complete activity logging
-- **Status Tracking** - Real-time workflow monitoring
-- **Participant Routing** - Smart recipient suggestion
-
-### **Other Technologies**
-- **RESTful APIs** - API design and implementation
-- **Inter & JetBrains Mono Fonts** - Custom typography
-- **FontAwesome 6.4** - Icon library
-- **Google Drive Folder Management** - Hierarchical file organization
-- **Mobile-Responsive Design** - Cross-device compatibility
-- **Read Receipts** - Message delivery tracking
+### Key Achievements:
+- ✅ **95% document processing automation** – Reduced manual effort and improved accuracy to 99%
+- ✅ **Complex billing engine** – Automated calculations for 32+ mall properties with strict formula integrity
+- ✅ **End-to-end data pipelines** – Transform scattered data into actionable real-time insights
+- ✅ **Enterprise-grade security systems** – Zero-trust architecture for financial workflows
+- ✅ **Dean's Lister** – Universidad De Manila (3rd Year, 2nd Semester)
 
 ---
 
-## 📂 My Notable Projects
+## 💼 Professional Experience
 
-### **1. MCD Operations Reporting System**
-A comprehensive quality control and deficiency tracking platform for property management.
-- **Tech:** Vue.js 3, Google Apps Script, Google Sheets, Base64 Image Storage
-- **Features:** Real-time inspection portal, automated rectification tracking, daily/monthly performance metrics, photo evidence storage
-- **Impact:** Digitized entire quality control workflow, eliminating manual tracking
+### **Business Systems Developer | Data Management Associate**
+**Luxury Global Malls (Megaworld Corp)** | Nov 2023 - Present
+- Consult with departments to identify automation opportunities and convert requirements into production software
+- Built 3+ custom web applications and automation engines handling high-volume data processing
+- Designed distributed data pipelines integrating multiple sources into real-time dashboards
+- Technologies: Google Apps Script, Vue.js, PHP, Python, Google Sheets API, SQL Server
+
+### **Technical Support Intern**
+**UDM Registrar Office** | 2022 - 2023
+- Developed VBA scripts and Excel formulas reducing manual data entry errors by 90%
+- Validated and cleaned 3,000+ student records for database integrity
+
+### **IT Support Intern**
+**DPWH North District Office** | Oct 2018
+- Configured office IT infrastructure including network cabling and hardware setup
+- Provided technical support for workstation troubleshooting
+
+---
+
+## 🛠️ Technical Toolbox
+
+### **Backend Development**
+- **PHP/Laravel** – Full-stack web applications with Inertia.js
+- **Python** – System automation, data processing, performance optimization
+- **Node.js/TypeScript** – RESTful APIs and server-side logic
+- **Java/C++** – Object-oriented programming, desktop applications
+
+### **Frontend Development**
+- **Vue.js 3** – Reactive UI components with Tailwind CSS
+- **HTML5/CSS3/Bootstrap** – Responsive, accessible web interfaces
+- **JavaScript (ES6+)** – Interactive applications and DOM manipulation
+
+### **Database & Data Management**
+- **MS SQL Server (SSMS)** – Enterprise database design and optimization
+- **MySQL/MariaDB** – Relational database architecture
+- **Google Sheets API** – Distributed sheet-based databases at scale
+- **RESTful APIs** – Data integration and microservices
+
+### **Automation & Scripting**
+- **Google Apps Script** – Enterprise workflow automation (V8 Runtime)
+- **VBA/Excel Macros** – Legacy system integration and formula engines
+- **Python Automation** – System performance tuning, process monitoring
+
+### **Data Analytics & Reporting**
+- **Looker Studio** – Interactive business dashboards and KPI tracking
+- **Data Visualization** – Transforming raw data into actionable insights
+- **Advanced Analytics** – Anomaly detection and trend analysis
+
+### **Systems & DevOps**
+- **Linux (Ubuntu/Kali)** – Command-line administration and scripting
+- **WSL2** – Windows Subsystem for Linux development environment
+- **Git/GitHub** – Version control and collaborative development
+- **Network Infrastructure** – TCP/IP, DNS, DHCP configuration
+
+---
+
+## 🚀 Featured Projects
+
+### **1. PBTT Utility Management System** 
+**Google Apps Script | Automation Engine**
+- Advanced automation framework managing electricity, water, and LPG billing data
+- Dynamic data fetching with multi-tab support and custom column mapping
+- Automated formula engine with VAT calculations and variance detection
+- Two-tier auditing system catching "Basic" and "Client Rate" anomalies
+- Smart database rotation when reaching Google's 10M cell limit
+- **Impact:** Processes complex billing logic with 100% accuracy and automatic duplicate prevention
 
 ### **2. Payment Endorsement Platform (PEP)**
-Secure enterprise-grade financial workflow tool for RFP processing and payment verification.
-- **Tech:** Vue.js 3, Google Apps Script, Bootstrap 5.3, PDF Generation, Gmail API
-- **Features:** Zero-trust authentication, strict search engine validation, automated PDF generation, intelligent participant routing
-- **Impact:** Ensured financial integrity with tamper-proof audit trails
+**Google Apps Script | Vue.js | Bootstrap 5**
+- Enterprise-grade financial workflow tool for payment verification and endorsement
+- Zero-trust registration with OTP email validation
+- Strict search engine validating RFP/Invoice data against master spreadsheets
+- Dynamic RFP ID generation with formatted tracking numbers
+- Automated PDF engine converting forms to print-ready documents
+- Intelligent participant routing with notification system
+- **Impact:** Guaranteed zero-trust financial transactions with tamper-proof audit trails
 
-### **3. PBTT Utility Management System**
-Advanced automation framework for utility billing (Electricity, Water, LPG) calculations and auditing.
-- **Tech:** Google Apps Script V8, LockService, CacheService, Distributed Google Sheets, Formula Injection
-- **Features:** Dynamic data fetching, automated formula engine, global anomaly scanning, smart database rotation, variance detection
-- **Impact:** Prevented duplicate processing with intelligent reference number generation
+### **3. Contacts Management System**
+**Vue.js 3 | PHP | Tailwind CSS | MySQL**
+- Full-featured web-based contact management application
+- Complete CRUD operations with real-time search and filtering
+- Contact grouping, categorization, and export functionality
+- Responsive design for desktop and mobile devices
+- **Tech Stack:** 51.9% Vue.js, 46.5% PHP, Modern UI with Bootstrap
 
-### **4. IntraTALKS Messaging System (AI-Powered)**
-High-performance, secure intranet messaging application with AI summarization capabilities.
-- **Tech:** Vue.js 3, Google Apps Script, Google Gemini AI API, XOR Encryption, CacheService
-- **Features:** AI chat summarization, brute-force protection, 12-hour password cooldowns, mobile-responsive UI, read receipts, emoji support
-- **Impact:** Enterprise communication platform with advanced security and AI-powered insights
+### **4. Windows-to-Linux Performance Engine**
+**Python | Tkinter | psutil**
+- Desktop utility transforming Windows into a high-performance lean environment
+- Identifies and terminates resource-heavy background processes
+- Automated service deactivation, system integrity checks, cache purging
+- Drive optimization (TRIM for SSDs, Defragmentation for HDDs)
+- Multi-threaded architecture preventing UI freezing during heavy operations
+- **Impact:** Optimizes system performance and reduces lag-generating services
 
-### **5. Contacts Management**
-Full-featured contact management application with complete CRUD operations.
-- **Tech:** Vue.js, PHP, MySQL, RESTful APIs
-- **Features:** Create/Read/Update/Delete contacts, search & filter, contact grouping, export functionality, data validation
-- **Impact:** Intuitive interface for organizing and managing contact information
+### **5. IntraTALKS Messaging System (AI-Powered)**
+**HTML | JavaScript | AI Integration**
+- Encrypted messaging platform with AI-powered group chat summarization
+- Helps busy managers stay informed without reading entire conversations
+- Real-time notification system
 
-### **6. Pass the Phone: Interactive Video Game**
-High-energy, interactive social game for team-building events with in-browser video recording.
-- **Tech:** Vue.js 3, Google Apps Script, MediaRecorder API, Google Drive Storage, Base64 Video Conversion
-- **Features:** In-browser video recording, dynamic prompts, secure cloud storage, anti-duplicate name validation, glassmorphism UI
-- **Impact:** Modern team-building platform with seamless video capture and sharing
+### **6. MCD Document Routing App**
+**HTML | JavaScript | Google Sheets**
+- Digital document tracking system replacing manual signature processes
+- Real-time workflow status monitoring
+- Automated routing and approval chains
 
-### **7. MLM Activity: "Getting to Know You" Game**
-Interactive team-building application with dynamic pattern recognition and achievement system.
-- **Tech:** Vue.js 3, Google Apps Script, Canvas Confetti, CacheService, Seeded Shuffling
-- **Features:** Randomized game boards, smart name validation, custom winning patterns, time-gated access, achievement system, progress tracking
-- **Impact:** Engaging ice-breaker game with real-time pattern detection
+### **7. MCD Security Screening Portal**
+**JavaScript | Vue.js | Custom Backend**
+- Risk assessment tool for evaluating incoming/outgoing/ongoing activities
+- Integration with master security databases
+- Comprehensive activity compliance tracking
 
-### **8. MCD Document Routing System**
-Automated, web-based workflow solution for replacing paper-based memo routing.
-- **Tech:** Vue.js 3, Google Apps Script, Bootstrap 5.3, Gmail API, Google Drive API
-- **Features:** Multi-level approval workflow, real-time status tracking, automated notifications, document finder, audit trails, PDF generation
-- **Impact:** Eliminated paper-based processes with digital workflow automation
+### **8. E-Portfolio Website**
+**Vue.js 3 | Bootstrap 5 | tsParticles**
+- Modern, fully responsive portfolio with animated particles
+- Custom cursor interaction and timeline-based experience display
+- Mobile-optimized navigation with smooth scrolling
 
-### **9. MCD Security Screening App**
-Workflow monitoring system for security screening of various facility activities.
-- **Tech:** Vue.js, JavaScript, Google Apps Script, Google Sheets
-- **Features:** Transaction monitoring, activity logging, evidence capture, multiple transaction types support
-- **Impact:** Comprehensive security screening and activity tracking
+### **9. Student Record Management System**
+**Java Swing | Desktop Application**
+- Desktop application for registrars managing student grades and enrollment
+- Comprehensive database integration for 3,000+ student records
 
-### **10. UDM Appointment System**
-Appointment scheduling and management web application with calendar integration.
-- **Tech:** JavaScript, PHP, Google Apps Script, MySQL
-- **Features:** Calendar integration, appointment tracking, database management
-
-### **11. PBTT Utility Management System (Database-Calendar Version)**
-Enhanced appointment system with database integration and calendar functionality.
-- **Tech:** PHP, MySQL, Google Apps Script, Calendar APIs
-- **Features:** Database-driven scheduling, calendar visualization
-
-### **12. Web App - Google Apps Script Template**
-Reusable template for Google Apps Script web applications with mall audit monitoring.
-- **Tech:** Google Apps Script, Vue.js, Google Sheets
-- **Features:** Inspection forms, deficiency tracking, automated updates
-
----
-
-## 🛠️ Key Expertise
-
-### **Google Workspace Development**
-- Building complex Google Apps Script applications (V8 Engine)
-- Integrating Sheets, Drive, Gmail, and Calendar APIs
-- Creating secure web apps with custom authentication
-- Implementing performance optimization with Cache and Lock Services
-- Advanced spreadsheet formula injection and calculations
-
-### **Full-Stack Web Development**
-- Modern responsive web applications with Vue.js 3
-- Backend logic with Google Apps Script and PHP
-- Database design and management
-- RESTful API development
-- Complete CRUD operation implementation
-
-### **Enterprise Solutions**
-- Workflow automation and process optimization
-- Financial data management and audit trails
-- Security screening and access control
-- Real-time monitoring and reporting systems
-- Multi-level approval workflows
-
-### **Media & Interactive Applications**
-- Browser-based video recording and processing
-- Game development with Vue.js
-- Real-time animation and effect rendering
-- Canvas-based visualizations
-- Media file conversion and storage
-
-### **AI Integration**
-- Google Gemini AI API implementation
-- Intelligent summarization and text processing
-- Multi-key fallback logic for API reliability
-- Context-aware AI responses
-
-### **Security & Data Protection**
-- Custom encryption implementations (XOR + Base64)
-- Zero-trust authentication systems
-- Secure session management
-- Audit trail generation
-- Role-based access control
-
-### **Advanced Algorithms**
-- Seeded shuffling algorithms
-- Pattern detection engines
-- Anomaly detection systems
-- Database rotation logic
-- Variance analysis
+### **10. Smart Trash Segregator (Capstone Project)**
+**Arduino | AI Classification | Hardware Integration**
+- Hardware project identifying and sorting different trash types
+- Machine learning-based waste classification
+- IoT integration for automated waste management
 
 ---
 
-## 🌱 Currently Exploring
+## 🎓 Education & Certifications
 
-- Advanced AI integration patterns
-- Microservices architecture
-- Cloud-native solutions
-- Enhanced data visualization techniques
-- Real-time collaboration features
-- WebRTC for peer-to-peer communication
-- Advanced game mechanics and physics engines
+### **Degree**
+- **B.I.T. in Computer Programming Technology**
+  - Universidad De Manila
+  - Class of 2019 - 2023
+  - Dean's Lister Awardee (3rd Year, 2nd Semester)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrjeronluther&show_icons=true&theme=default)
-
----
-
-## 🎓 Philosophy
-
-I believe in:
-- **Writing clean, maintainable code** that others can understand and build upon
-- **Solving real-world problems** with practical, scalable solutions
-- **Security first** - protecting user data and maintaining integrity
-- **User experience** - building intuitive interfaces that make work easier
-- **Continuous learning** - staying updated with new technologies and best practices
-- **Performance optimization** - ensuring applications run efficiently at scale
-- **Comprehensive documentation** - making systems easy to maintain and extend
+### **Certifications & Training**
+- Introduction to Cybersecurity (Cisco Networking Academy) - 2024
+- Java Programming (NC III) - TESDA - 2023
+- Front-end Development JavaScript - Pateros Tech - 2022
+- Data Management & Naming Convention - DICT - 2022
+- Fraud and Risk Management - Pateros Tech - 2022
+- Data Science Certification - Pateros Tech - 2022
+- Research via Data Analytics - Universidad De Manila - 2022
+- Intro to Programming - TIP - 2022
+- Creative Web Design Level I - TESDA - 2019
+- Cybersecurity Awareness - DICT - 2022
 
 ---
 
-## 📫 Get In Touch
+## 📊 Repository Overview
 
-- **GitHub:** [@mrjeronluther](https://github.com/mrjeronluther)
-- **Portfolio:** Check out my repositories above!
-
----
-
-**Thanks for visiting my profile!** Feel free to explore my repositories to see how I approach problem-solving and system design. I'm always interested in collaborating on innovative projects, especially those involving:
-- Google Workspace automation
-- Full-stack development
-- Enterprise solutions
-- Interactive applications
-- AI-powered systems
-- Game development
-
-Don't hesitate to reach out! 🚀
+| Repository | Purpose | Tech Stack | Status |
+|---|---|---|---|
+| PBTT-Utility-Management-System | Billing automation engine | Google Apps Script, Google Sheets | Production |
+| Payment-Endorsement-Portal | Financial workflow platform | Google Apps Script, Vue.js | Production |
+| Contacts-Management | Full-stack contact manager | Vue.js, PHP, MySQL | Complete |
+| Windows-to-Linux Performance Engine | System optimization tool | Python, Tkinter | Production |
+| My-E-Portfolio | Professional portfolio website | Vue.js, Bootstrap | Live |
+| IntraTALKS-Messaging-System | AI chat platform | JavaScript, AI APIs | Active |
+| MCD-Document-Routing-App | Workflow management | HTML, JavaScript | Deployed |
+| MCD-Security-Screening | Risk assessment tool | JavaScript, Vue.js | Deployed |
 
 ---
 
-*Last Updated: May 8, 2026*
+## 🎯 What I'm Good At
+
+✅ **Building Internal Tools** – Custom software that solves specific business problems  
+✅ **Data Pipeline Architecture** – Designing systems that move and transform data efficiently  
+✅ **Automation Frameworks** – Reducing manual work from hours to minutes  
+✅ **Database Design** – From simple sheets to enterprise SQL Server schemas  
+✅ **Full-Stack Development** – Frontend UI to backend APIs and databases  
+✅ **Problem-Solving** – Finding root causes and building elegant solutions  
+✅ **System Integration** – Connecting different platforms and data sources seamlessly  
+
+---
+
+## 🔗 Quick Links
+
+- **GitHub Profile:** https://github.com/mrjeronluther
+- **Portfolio Website:** https://github.com/mrjeronluther/My-E-Portfolio
+- **Email:** castrojeronlutheres@gmail.com
+- **LinkedIn:** (Available upon request)
+
+---
+
+## 💡 Philosophy
+
+> *"Every business has inefficient processes. My job is to find them, understand them, and build software that fixes them—making teams work smarter, faster, and with fewer errors."*
+
+I believe that great software is:
+- **Purposeful** – Solves a real problem
+- **Reliable** – Works consistently and accurately
+- **Maintainable** – Easy for others to understand and update
+- **Performant** – Optimized for speed and resource usage
+
+---
+
+## 📈 Looking Forward
+
+I'm continuously learning and staying current with:
+- Advanced data engineering techniques
+- Cloud-based architectures (Google Cloud, Azure)
+- Machine learning for business automation
+- Modern DevOps practices
+- Enterprise security frameworks
+
+---
+
+<div align="center">
+
+**Let's build something that matters.**
+
+*Feel free to reach out if you'd like to discuss automation, custom software development, or how I can help solve your business challenges.*
+
+</div>
