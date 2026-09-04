@@ -55,7 +55,7 @@ I solve the "slow parts" of businesses by building custom software solutions. My
 ### **Backend & Automation**
 - **Google Apps Script** (V8 Runtime) – Enterprise workflow automation, custom functions, data processing
 - **PHP/Laravel** – Full-stack web applications with Inertia.js, RESTful APIs, ORM
-- **Python** – System automation, data processing, performance optimization, desktop applications (Tkinter)
+- **Python** – System automation, data processing, performance optimization, desktop applications (Tkinter), Matplotlib, Pandas. 
 - **Node.js/TypeScript** – Server-side logic, RESTful APIs, middleware
 
 ### **Frontend Development**
