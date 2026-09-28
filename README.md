@@ -3,10 +3,6 @@
 # 👋 Jeron Luther E.S. Castro
 ### Web Developer | Data Management & Analytics
 
-<p align="center">
-  <b>Engineering responsive web applications, robust APIs, and automated data pipelines across 32 commercial properties.</b>
-</p>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-E--Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/mrjeronluther/My-E-Portfolio)
 [![Email](https://img.shields.io/badge/Email-castrojeronlutheres%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castrojeronlutheres@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mrjeronluther-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrjeronluther)
@@ -16,24 +12,13 @@
 
 ---
 
-## 📌 Executive Summary
+## 📌 Let Me Walk You Through
 
-Detail-oriented **Web Developer & Data Management Associate** with proven enterprise experience engineering responsive web applications, interactive user interfaces, and automated data processing solutions across **32 commercial properties**.
+From earning my degree in **Computer Programming Technology** to working as a **Web Developer & Data Management Associate**, my focus has been on solving core operational bottlenecks. I specialize in replacing legacy, paper-based workflows that have grown inefficient over time with automated, digital solutions. 
 
-* **Frontend:** Architecting reactive, component-driven user interfaces using **Vue.js 3**, **JavaScript (ES6+)**, and **Bootstrap 5**.
-* **Backend & Automation:** Designing secure APIs and automation engines utilizing **PHP (Laravel)**, **Node.js**, **Python**, **Google Apps Script**, and **VBA Excel**.
-* **Data Pipelines & Storage:** Managing high-integrity schema enforcement, ETL pipelines, and relational database systems with **MySQL**, **MS SQL Server (SSMS)**, and **Looker Studio**.
+My goal is not just to digitize processes for organizations, but to empower everyday users to work smarter—achieving greater productivity and speed without compromising accuracy.
 
----
-
-## 📊 Enterprise Impact at a Glance
-
-| Metric | Business Impact Delivered |
-| :---: | :--- |
-| **≤ 5 Mins** | Reduced cross-department document routing from **multi-day physical transit to under 5 minutes**. |
-| **100%** | Eliminated computational revenue leakage across multi-tiered utility & lease calculation engines. |
-| **90%** | Achieved operational SOP and safety compliance across property teams through strict front-end validation rules. |
-| **32 Properties** | Consolidated heterogeneous data sources into centralized, real-time executive dashboards. |
+Explore the technologies and frameworks I have worked with across my engineering journey below:
 
 ---
 
@@ -43,11 +28,11 @@ Detail-oriented **Web Developer & Data Management Associate** with proven enterp
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Front-End** | ![Vue.js](https://img.shields.io/badge/Vue.js_3-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Back-End & Scripting** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white) ![VBA Excel](https://img.shields.io/badge/VBA_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| **Databases & Analytics** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server_(SSMS)-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=googleanalytics&logoColor=white) ![Cloud Integrations](https://img.shields.io/badge/Cloud_Data_Integrations-00897B?style=flat-square&logo=icloud&logoColor=white) |
-| **Data Operations** | `ETL Pipelines` • `Schema Enforcement` • `Input Sanitization` • `Data Integrity Auditing` |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux Ubuntu](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| **Front-End Development** | ![Vue.js 3](https://img.shields.io/badge/Vue.js_3-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Back-End & Core Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white) ![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **Databases & Analytics** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server_(SSMS)-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white) |
+| **Data Operations & Integrity** | ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-0284C7?style=flat-square) ![Schema Enforcement](https://img.shields.io/badge/Schema_Enforcement-475569?style=flat-square) ![Input Sanitization](https://img.shields.io/badge/Input_Sanitization-059669?style=flat-square) ![Data Auditing](https://img.shields.io/badge/Data_Auditing_&_Integrity-D97706?style=flat-square) ![Data Archival](https://img.shields.io/badge/Data_Archival_&_Versioning-7C3AED?style=flat-square) |
+| **Tools, OS & Hardware** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![WSL2](https://img.shields.io/badge/WSL2-0078D6?style=flat-square&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
 
 </div>
 
